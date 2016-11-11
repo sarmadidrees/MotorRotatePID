@@ -152,7 +152,7 @@ void interpretSerialData(void){
         }
         
     }
-    
+    //For rotation
     else if (inputString[0]  == 'G'){
       if(inputString[2]  == 'R'){
         right = true;
